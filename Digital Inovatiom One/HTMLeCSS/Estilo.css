@@ -1,0 +1,74 @@
+body {
+    background: #dfe0ee;
+    max-width: 900px;
+    margin: auto;
+}
+
+.foto {
+    border: #000fff;
+    border-radius: 50px;
+}
+
+#titulo {
+    color: red;
+    font-family: verdana;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.subtitulo {
+    color: orange;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: lowercase;
+    text-decoration: overline;
+}
+
+.post_titulo {
+    color: green;
+    font-family: Verdana, Arial;
+    font-size: 18px;
+    text-transform: capitalize;
+    text-decoration: line-through margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 2px solid #000fff;
+    border-radius: 5px;
+    margin: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.imagem {
+    border-radius: 5px;
+}
+
+.post1 {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_img {
+    margin: bottom 15px;
+    ;
+}
+
+a {
+    text-decoration: line-through;
+}
+
+ul {
+    list-style-type: square;
+    padding: 15px;
+}
+
+ul li a {
+    color: blue;
+}
